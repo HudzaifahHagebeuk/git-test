@@ -1,1 +1,4 @@
 Hallo Git!
+Dit is een nieuwe regel in test.txt
+Ik heb veel gedaan, kan het niet reproduceren
+PAT staat in Bitwarden
