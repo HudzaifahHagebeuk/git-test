@@ -1,11 +1,10 @@
 Hallo Git!
-Dit is een nieuwe regel in test.txt
+
+In nano tekst veranderen: 
+nano bestandsnaam.txt
+
 Elke keer als je een bestand wijzigt:
-
 git status
-
 git add ...
-
 git commit -m "zet hier wat de wijziging is"
-
 git push
