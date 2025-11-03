@@ -2,7 +2,7 @@ Dit is informatie uit mijn muzieklessen van NHA
 Hele noot, halve noot, kwartnoot, achtste noot
 hele rust, halve rust, kwartrust, achtste rust
 4/4-maat, 2/4-maat, 3/8-maat, 6/8-maat
-F-sleutel, G-sleutel
+G-sleutel, F-sleutel
 C D E F G A B
 kruis #  en mol b
 Fis Cis Gis Dis Ais Eis Bis
@@ -18,9 +18,11 @@ c'' tweegestreept
 c''' driegestreept
 c'''' viergestreept
 c''''' vijfgestreept
+herhalingstekens
 bindingsboog
 opmaat
 octaaf
 8va
 D.C. al Fine
 unisono
+
