@@ -21,8 +21,15 @@ c''''' vijfgestreept
 herhalingstekens
 bindingsboog
 opmaat
-octaaf
 8va
 D.C. al Fine
 unisono
 waardestreep
+primo
+secundo
+terts
+kwart
+kwint
+sext
+septime
+octaaf
