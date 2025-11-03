@@ -5,8 +5,8 @@ hele rust, halve rust, kwartrust, achtste rust
 F-sleutel, G-sleutel
 C D E F G A B
 kruis #  en mol b
-cis dis eis fis gis ais bis
-ces des es fes ges as bes (ik weet niet of dit goed is)
+Fis Cis Gis Dis Ais Eis Bis
+Bes Es As Des Ges Ces Fes
 stabiele dynamiek, overgangsdynamiek  
 octaafnamen:
 C,, sub-contra
@@ -18,3 +18,9 @@ c'' tweegestreept
 c''' driegestreept
 c'''' viergestreept
 c''''' vijfgestreept
+bindingsboog
+opmaat
+octaaf
+8va
+D.C. al Fine
+unisono
